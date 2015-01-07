@@ -1,0 +1,13 @@
+doctype html
+html(lang="en")
+  head
+    title Test
+    link(rel='stylesheet' href='app.css')
+  body
+    p.
+      I'm the body.
+
+    script(src='jspm_packages/system.js')
+    script(src='config.js')
+    script.
+      System.import('app/main')

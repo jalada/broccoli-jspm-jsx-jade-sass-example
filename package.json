@@ -1,0 +1,27 @@
+{
+  "name": "jspm-broccoli",
+  "version": "0.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "broccoli": "^0.13.3",
+    "broccoli-jade": "^1.0.0",
+    "broccoli-merge-trees": "^0.1.4",
+    "broccoli-react": "^0.6.0",
+    "broccoli-sass": "^0.3.2",
+    "broccoli-static-compiler": "^0.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Copyright Pixie Labs",
+  "jspm": {
+    "directories": {
+      "lib": "app"
+    },
+    "configFile": "config/config.js",
+    "dependencies": {
+      "react": "npm:react@^0.12.2"
+    }
+  }
+}
