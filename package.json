@@ -13,8 +13,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "Copyright Pixie Labs",
+  "author": "David Somers",
+  "license": "MIT",
   "jspm": {
     "directories": {
       "lib": "app"
