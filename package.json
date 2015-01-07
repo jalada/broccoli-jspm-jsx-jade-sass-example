@@ -1,7 +1,6 @@
 {
-  "name": "jspm-broccoli",
+  "name": "broccoli-jspm-jsx-jade-sass-example",
   "version": "0.0.0",
-  "main": "index.js",
   "devDependencies": {
     "broccoli": "^0.13.3",
     "broccoli-jade": "^1.0.0",
